@@ -2,9 +2,11 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+My name is Joel Hooks.
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+I'm a co-founder of [egghead.io](https://egghead.io). I serve as the "man behind the curtain" and manage the site from a technical and business perspective. You can read some [personal history here](http://joelhooks.com/about).
+
+Ask me anything!
 
 -
 
