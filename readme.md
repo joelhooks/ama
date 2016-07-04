@@ -4,7 +4,9 @@
 
 My name is Joel Hooks.
 
-I'm a co-founder of [egghead.io](https://egghead.io). I serve as the "man behind the curtain" and manage the site from a technical and business perspective. You can read some [personal history here](http://joelhooks.com/about).
+I'm a co-founder of [egghead.io](https://egghead.io). I serve as the "man behind the curtain" and manage the site from a technical and business perspective.
+
+You can read some [personal history here](http://joelhooks.com/about).
 
 Ask me anything!
 
